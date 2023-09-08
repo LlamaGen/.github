@@ -1,13 +1,5 @@
-# LLama
-## Hi there 👋
+# LLamaGen
+Телеграм бот, который может ускорить работу тех поддержки.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Пример работы:
+[![Пример работы](https://img.youtube.com/vi/ZgfYfh40HJA/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/ZgfYfh40HJA)https://youtu.be/ZgfYfh40HJA)
