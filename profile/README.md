@@ -1,6 +1,8 @@
 # LLamaGen
 Телеграм бот, который может ускорить работу тех поддержки.
 
+[API модели](https://github.com/LlamaGen/llama_api) [Telegram Bot](https://github.com/LlamaGen/llama_bot)
+
 Пример работы:
 
-[![Пример работы](https://img.youtube.com/vi/ZgfYfh40HJA/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/ZgfYfh40HJA)https://youtu.be/ZgfYfh40HJA)
+[![Пример работы](https://i.imgur.com/FsJqnRI.png)](https://youtu.be/ZgfYfh40HJA)
